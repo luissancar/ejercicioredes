@@ -17,4 +17,10 @@ Realizar utilizando Cisco Packet Tracer el siguiente ejercicio:
 
 - Existirá un servidor DNS para resolver los nombres anteriores.
 - Todas las redes deben estar etiquetadas.
-- Subir el fichero a github.com. En github debemos crear un fichero readme.md (en formato mark down) donde se explicará todo el ejercicio.    
+- Subir el fichero a github.com. En github debemos crear un fichero readme.md (en formato mark down) donde se explicará todo el ejercicio. 
+
+Recuerda guardar la configuración del router, en caso contrario, al cerrar el trabajo y abrirlo otra vez, perderas la configuración del router.
+
+![Guardar configuración router](/router.jpg)
+
+
